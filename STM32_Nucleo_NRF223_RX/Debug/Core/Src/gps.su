@@ -1,0 +1,4 @@
+../Core/Src/gps.c:13:7:nmeaToDecimal	32	static
+../Core/Src/gps.c:19:6:gpsParse	24	static
+../Core/Src/gps.c:29:6:gpsGetGoogleMapsLink	32	static
+../Core/Src/gps.c:35:6:HAL_UART_RxCpltCallback	16	static
